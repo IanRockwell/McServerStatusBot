@@ -52,4 +52,4 @@ python main.py
 
 ## Additional Notes
 
-- Ensure that the bot has the necessary permissions to read messages and send messages in the specified alert channel!
+- Ensure that the bot has the necessary permissions to read messages and send messages in the specified alert channel, as well as ping the admin role specified!
